@@ -4,4 +4,4 @@
 - second item
 
 1. numbered list
-2. autonumbe
+2. autonumbering
