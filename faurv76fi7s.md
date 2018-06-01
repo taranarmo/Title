@@ -2,4 +2,4 @@
 
 - some list
 - second item
-- 
+-
